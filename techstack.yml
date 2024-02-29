@@ -2,7 +2,7 @@ repo_name: 2lambda123/Windows-Event-Log-Messages
 report_id: a992b381a062e11ab0e89e7824f17c80
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-09T07:56:47+00:00'
+timestamp: '2024-02-29T19:18:36+00:00'
 requested_by: dependabot[bot]
 provider: github
 branch: dependabot/nuget/welm/WelmLibrary/Newtonsoft.Json-13.0.2
